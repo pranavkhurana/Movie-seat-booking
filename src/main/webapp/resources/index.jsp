@@ -67,6 +67,7 @@
 					<li><a href="">About</a></li>
 					<li><a href="">Services</a></li>
 					<li><a href="">Contact</a></li>
+					<li><a href="">Movies</a></li>
 					<li class="dropdown"><a href="#" class="dropdown-toggle"
 						data-toggle="dropdown">Portfolio <b class="caret"></b></a>
 						<ul class="dropdown-menu">
