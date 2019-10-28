@@ -70,10 +70,6 @@
 					<li class="dropdown"><a href="#" class="dropdown-toggle"
 						data-toggle="dropdown">Portfolio <b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li><a href="">1 Column Portfolio</a></li>
-							<li><a href="">2 Column Portfolio</a></li>
-							<li><a href="">3 Column Portfolio</a></li>
-							<li><a href="">4 Column Portfolio</a></li>
 							<li><a href="">Single Portfolio Item</a></li>
 						</ul></li>
 					<li class="dropdown"><a href="#" class="dropdown-toggle"
